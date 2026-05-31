@@ -4,6 +4,12 @@ Caso sintético para un curso de **Calidad de Datos y Análisis Exploratorio** e
 
 ---
 
+## Notebook en Colab
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arnaldo-ramirez-ml/InnovaCorp/blob/main/InnovaCorp.ipynb)
+
+Notebook semilla.
+
 ## 1. Descripción general
 
 InnovaCorp es una empresa peruana ficticia. El dataset contiene su plantilla de empleados:
